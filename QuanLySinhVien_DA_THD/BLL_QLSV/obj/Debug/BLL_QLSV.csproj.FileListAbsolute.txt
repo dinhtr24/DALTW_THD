@@ -1,0 +1,9 @@
+D:\QuanLySinhVien_DA_THD\BLL_QLSV\bin\Debug\BLL_QLSV.dll
+D:\QuanLySinhVien_DA_THD\BLL_QLSV\bin\Debug\BLL_QLSV.pdb
+D:\QuanLySinhVien_DA_THD\BLL_QLSV\bin\Debug\DAL_QLSV.dll
+D:\QuanLySinhVien_DA_THD\BLL_QLSV\bin\Debug\DAL_QLSV.pdb
+D:\QuanLySinhVien_DA_THD\BLL_QLSV\obj\Debug\BLL_QLSV.csproj.AssemblyReference.cache
+D:\QuanLySinhVien_DA_THD\BLL_QLSV\obj\Debug\BLL_QLSV.csproj.CoreCompileInputs.cache
+D:\QuanLySinhVien_DA_THD\BLL_QLSV\obj\Debug\BLL_QLSV.csproj.CopyComplete
+D:\QuanLySinhVien_DA_THD\BLL_QLSV\obj\Debug\BLL_QLSV.dll
+D:\QuanLySinhVien_DA_THD\BLL_QLSV\obj\Debug\BLL_QLSV.pdb
